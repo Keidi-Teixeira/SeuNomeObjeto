@@ -23,7 +23,7 @@ namespace Teste
         {
             Console.WriteLine("Hello World");
 
-            Name myName = new Name("Ramirez", 40);
+            Name myName = new Name("Keidi", 16);
             Console.WriteLine("Minha idade é: " + myName.Age + "  Meu nome é: " + myName.Fullname);
 
             Console.WriteLine("Digite seu nome!");
